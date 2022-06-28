@@ -3,8 +3,8 @@ Originally from 🇻🇳 Hanoi, Vietnam, then 🇯🇵 Tokyo/Nagano Japan, curre
 
 Pls feel free to look around my GitHub :)
 My GitHub also includes:
--This account:
--&This account:
+- This account:
+- &This account:
 
 [Contact me](mailto:kienle@ufl.edu) to talk about:
 - 🦾 Artificial Intelligence x Future
