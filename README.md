@@ -9,5 +9,5 @@ My GitHub also includes:
 [Contact me](mailto:kienle@ufl.edu) to talk about:
 - 🦾 Artificial Intelligence x Future
 - 🚀 Crazy and Ambitious start-up ideas
-- 👨‍💻 Building & managing complex and powerful software
+- 👨‍💻 Building & managing elaborate, robust, and solution-focused software
 - 💸 How to help our countries become richer
