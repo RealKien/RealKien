@@ -3,8 +3,8 @@ Originally from 🇻🇳 Hanoi, Vietnam, then 🇯🇵 Tokyo/Nagano Japan, curre
 
 Pls feel free to look around my Personal GitHub :)
 My GitHub also includes:
-- This account: https://github.com/BrightChanges (My High School GitHub)
-- &This account:  (My College GitHub)
+- https://github.com/BrightChanges (My High School GitHub)
+-  (My College GitHub)
 
 [Contact me](mailto:kienle@ufl.edu) to talk about:
 - 🦾 Artificial Intelligence x Future
