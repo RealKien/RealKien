@@ -1,5 +1,6 @@
 # Hi, I'm Kien :)
 Originally from 🇻🇳 Hanoi, Vietnam, then 🇯🇵 Tokyo/Nagano Japan, currently @ University of Florida
+Visit [my website](https://realkien.github.io/) for more information :)
 
 Pls feel free to look around my Personal GitHub :)
 My GitHub also includes:
