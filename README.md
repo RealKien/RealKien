@@ -1,5 +1,4 @@
-# Hi, I'm Kien :)
-Originally from 🇻🇳 Hanoi, Vietnam, then 🇯🇵 Tokyo/Nagano Japan, currently @ University of Florida
+# Hi, I'm Cole.
 
 Visit [my website](https://realkien.github.io/) for more information :)
 
